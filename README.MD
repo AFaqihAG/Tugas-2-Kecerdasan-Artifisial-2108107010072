@@ -6,8 +6,8 @@
 
 **Source Code:** [close-or-open.ipynb](https://github.com/AFaqihAG/Tugas-2-Kecerdasan-Artifisial-2108107010072/blob/main/close-or-open.ipynb)
 
-**Laporan dalam format Powerpoint:** [Powerpoint](https://github.com/AFaqihAG/Tugas-2-Kecerdasan-Artifisial-2108107010072/blob/main/PowerPoint_TUGAS2.pptx)        
-[Alternative (PDF FILE)](https://github.com/AFaqihAG/Tugas-2-Kecerdasan-Artifisial-2108107010072/blob/main/TUGAS2_PowerPoint.pdf)
+**Laporan dalam format Powerpoint:** [Powerpoint](https://github.com/AFaqihAG/Tugas-2-Kecerdasan-Artifisial-2108107010072/blob/main/Laporan-2108107010072.pptx)        
+[Alternative (PDF FILE)](https://github.com/AFaqihAG/Tugas-2-Kecerdasan-Artifisial-2108107010072/blob/main/Laporan-2108107010072.pdf)
 
 **Screenshot Plot Proses Training:** [Training Plot](https://github.com/AFaqihAG/Tugas-2-Kecerdasan-Artifisial-2108107010072/blob/main/images_for_github/plot_process_training.png)
 
